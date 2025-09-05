@@ -1,0 +1,143 @@
+
+.Top{
+    display:block;
+    background-color: gold;
+    border-color:black;
+    margin:-10px;
+    background-image: url("c:\Users\James\Downloads\GoldCoinsandBarsforBookCover.jpg") ;
+    border: 20px;
+    height:303px;
+    background-color: #042342;
+}
+.TopInner{
+    width: 880px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    margin-right:auto;
+    margin-left:auto;
+    height:303px;
+}
+.TopLeft{
+    float: left;
+    display:inline;
+    width:420px;
+    height:283px;
+    padding-top: 10px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:10px;
+    text-align: center;
+}
+.TopRight{
+    float: right;
+    display:inline;
+    width:420px;
+    height:283px;
+    padding-top:18px;
+    padding-bottom:10px;
+    padding-left:10px ;
+    padding-right:10px;
+    text-align: center;
+}
+.headerImage{
+    width:440px;
+    height:268px;
+}
+.SiteTitle{
+    padding-top: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:#e2c900;
+    margin-top:0px;
+    margin-bottom:20px;
+}
+.SiteSubTitle{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:35px;
+    color:#7293b5;
+    margin-top: 15px;
+    margin-bottom:5px ;
+}
+.ThirdTitle{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+    color:#7293b5;
+    margin-top: 20px;
+    margin-bottom:10px;
+}
+.FourthTitle{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+    color:#7293b5;
+    margin-top:-8px;
+    margin-bottom:7px;
+    padding-top:2px;
+}
+.Strap{
+    text-align:center;
+    font-size:35px;
+}
+.call-to-action{
+    text-align:center;
+    font-size:20px;
+}
+.Central{
+    height:902px;
+}
+.CentralInner{
+    height:902px;
+    width:880px;
+    margin-right:auto;
+    margin-left:auto;
+}
+.CentralLeft{
+    width:420px;
+    float:inline-start;
+    display:inline;
+    text-align:left;
+    padding:10px;
+    
+}
+.CentralRight{
+    float:inline-end;
+    width:420px;
+    display:inline;
+    text-align:left;
+    padding:10px;
+}
+.TextLeft{
+    font-size:20px;
+}
+.TextRight{
+    font-size:20px;
+}
+.bottom{
+    display:block;
+    height:556.8px;
+    margin:-10px;
+}
+.footerImage{
+    width:1516.5px;
+    height:500px;
+    margin-bottom: -20px;
+}
+.footer{
+    text-align: center;
+    background-color: grey;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left:0px;
+}
+.footerInner{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footerPara{
+    padding-top:10px;
+    padding-bottom:10px;
+}
